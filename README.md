@@ -1,6 +1,10 @@
 # IGReport
 instagram report bot android app for reporting profiles and stories with all report types and multi accounts
 
+## Versions 
+- free version report only profile and you can add maximum 5 accounts
+- paid version 10$ monthly report profile / stories / dm messages and you can add more then 100 accounts
+
 ## Screenshots
 <img src="/Screenshot_20230805_214523.jpg" alt="Image" width="300">
 <img src="/Screenshot_20230805_214533.jpg" alt="Image" width="300">
