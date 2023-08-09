@@ -19,3 +19,6 @@ You can find me on the following platforms:
 - Instagram: [@9hea](https://www.instagram.com/9hea)
 - Telegram: [@ggvvgg](https://www.t.me/xmurder)
 
+<h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/strngprogrammer/IGReport"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@IGReport?theme=rule34" /></a>
